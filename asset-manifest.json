@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/global/static/css/main.d07db688.chunk.css",
-    "main.js": "/global/static/js/main.42b8d095.chunk.js",
-    "main.js.map": "/global/static/js/main.42b8d095.chunk.js.map",
+    "main.js": "/global/static/js/main.e443372b.chunk.js",
+    "main.js.map": "/global/static/js/main.e443372b.chunk.js.map",
     "runtime-main.js": "/global/static/js/runtime-main.2dff3ed7.js",
     "runtime-main.js.map": "/global/static/js/runtime-main.2dff3ed7.js.map",
-    "static/js/2.e25f61bb.chunk.js": "/global/static/js/2.e25f61bb.chunk.js",
-    "static/js/2.e25f61bb.chunk.js.map": "/global/static/js/2.e25f61bb.chunk.js.map",
+    "static/js/2.6c7ec691.chunk.js": "/global/static/js/2.6c7ec691.chunk.js",
+    "static/js/2.6c7ec691.chunk.js.map": "/global/static/js/2.6c7ec691.chunk.js.map",
     "index.html": "/global/index.html",
     "static/css/main.d07db688.chunk.css.map": "/global/static/css/main.d07db688.chunk.css.map",
-    "static/js/2.e25f61bb.chunk.js.LICENSE.txt": "/global/static/js/2.e25f61bb.chunk.js.LICENSE.txt",
+    "static/js/2.6c7ec691.chunk.js.LICENSE.txt": "/global/static/js/2.6c7ec691.chunk.js.LICENSE.txt",
     "static/media/logo-next.01dde950.png": "/global/static/media/logo-next.01dde950.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2dff3ed7.js",
-    "static/js/2.e25f61bb.chunk.js",
+    "static/js/2.6c7ec691.chunk.js",
     "static/css/main.d07db688.chunk.css",
-    "static/js/main.42b8d095.chunk.js"
+    "static/js/main.e443372b.chunk.js"
   ]
 }
